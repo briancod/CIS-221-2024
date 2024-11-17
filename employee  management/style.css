@@ -1,0 +1,94 @@
+
+*{
+    text-decoration: none;
+    margin: 10px;
+    padding: 5px;
+
+}
+body{
+    background-color: antiquewhite;
+}
+h1{
+    text-align: center;
+}
+.h{
+    background-color:burlywood;
+    border-radius: 5px;
+    padding: 10px;
+}
+button{
+    background-color: skyblue;
+    border-radius: 5px;
+
+}
+button a{
+    color: black;
+}
+
+.con{
+    align-items: center;
+    background-color:white ;
+    border-radius: 10px;
+    width: 400px;
+    margin: auto;
+    flex-direction: column;
+}
+.a{
+    text-align: center;
+    background-color: whitesmoke;
+    border-radius: 10px;
+}
+.navbar{
+    background-color: aliceblue;
+    padding:5px;
+    display: flex;
+
+}
+.navbar a:hover{
+    text-decoration: underline;
+}
+li{
+    list-style: none;
+    
+
+}
+li a{
+    color: white;
+}
+li a:hover{
+    background-color: skyblue;
+}
+ul{
+    background-color:burlywood;
+    width: fit-content;
+    
+
+}
+.section{
+    padding: 10px;
+    margin: 20px;
+    border: 2px solid;
+    border-radius: 5px;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    margin: 10px;
+}
+table th,td{
+    border: 1px solid;
+
+}
+th,td{
+    padding: 10px;
+    text-align: left;
+}
+.container{
+    margin: auto;
+    background-color: white;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+    width: 400px;
+}
+    
